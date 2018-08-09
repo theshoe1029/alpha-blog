@@ -1,2 +1,41 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+#logo{
+  float: left;
+  font-size: 1.7em;
+  color: red;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  font-weight: bold;
+}
+
+#logo:hover{
+  color: red;
+  text-decoration: none;
+}
+
+.center{
+  text-align: center;
+}
+
+footer{
+  margin-top: 45px;
+  padding-top: 5px;
+  border-top: 1px solid #eaeaea;
+  color: #777;
+}
+
+footer small{
+  float: left;
+}
+
+footer ul{
+  list-style: none;
+  float: right;
+}
+
+footer ul li{
+  float: left;
+  margin-left: 15px;
+}
