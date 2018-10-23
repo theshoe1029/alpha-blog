@@ -32,6 +32,8 @@ gem 'bootstrap-will_paginate', '1.0.0'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
+gem 'rails-controller-testing'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
